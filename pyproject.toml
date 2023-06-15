@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "main"
+version = "0.1.0"
+description = ""
+authors = ["nataliagovorushkina <a10061514@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pytest = "^7.3.2"
+pytest-cov = "^4.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
