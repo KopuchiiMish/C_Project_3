@@ -1,5 +1,15 @@
-venv
 .idea
 *.pyc
 __pycache__
 __trash__
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+.hypothesis/
+.pytest_cache/
+cover/
+poetry.lock
